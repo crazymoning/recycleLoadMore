@@ -15,6 +15,7 @@ RecycleLoadMore就是实现的滑到底部自动加载的方式。
 
 需要设置LoadMoreAdapter.OnLoadListener来加载数据
 
+```
 adapter.setOnLoadListener(new LoadMoreAdapter.OnLoadListener() {
             @Override
             public void loadMore() {
