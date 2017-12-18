@@ -1,4 +1,4 @@
-package cn.xzr.library.recyclerviewloadmore;
+package cn.xzr.app.recyclerviewloadmore;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package cn.xzr.library.recyclerviewloadmore;
+package cn.xzr.app.recyclerviewloadmore;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;

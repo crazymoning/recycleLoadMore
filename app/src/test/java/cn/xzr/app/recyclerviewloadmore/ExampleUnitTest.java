@@ -1,4 +1,4 @@
-package cn.xzr.library.recyclerviewloadmore;
+package cn.xzr.app.recyclerviewloadmore;
 
 import org.junit.Test;
 
